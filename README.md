@@ -4,6 +4,10 @@
 
 [![Danen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danendra10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Danen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danendra10&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Danen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danendra10)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Danendra10/Danendra10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
