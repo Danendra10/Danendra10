@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 ## 🔥 My contribution streak
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Danendra10&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danendra10#version3"/>
@@ -94,5 +95,3 @@ Here are some ideas to get you started:
 </details>
 -----
 Credits: [DenverCoder1](https://github.com/DenverCoder1)
-
-Last Edited on: 15/01/2021
