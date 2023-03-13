@@ -90,6 +90,18 @@ Here are some ideas to get you started:
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
 
+
+
+
+
 </details>
 -----
 Credits: [DenverCoder1](https://github.com/DenverCoder1)
+
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=danendra10)
