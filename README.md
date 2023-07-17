@@ -7,12 +7,11 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏢 I am currently working as a **Senior Web Developer** at [Kontaineran ID](https://kontaineran.id), etc
+- 🎓 Studies for Electrical Engineering at [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/) since **2020**
+- 🏢 Experienced in Robot Development for **3 Years** at [IRIS ITS Github](https://github.com/IRIS-ITS) [IRIS ITS Web](https://iris.its.ac.id)
+- 🏢 Experienced in Web Development for **3 Years** at [IRIS ITS](https://github.com/IRIS-ITS), [Evolution ITS](https://evolution-ee-its.com/), [Kontaineran ID](https://kontaineran.id), etc
+- 🏡'Lives in **Surabaya, Indonesia**
 
 <br>
 
@@ -20,7 +19,7 @@
 
 <br>
 
-[![@danendra10](https://img.icons8.com/fluency/48/000000/instagram-new.png "@danendra10")](https://www.instagram.com/danendra10/) [![@danendra10](https://img.icons8.com/fluency/48/000000/facebook.png "@danendra10")](https://www.facebook.com/danendra10) [![@danendra10](https://img.icons8.com/fluency/48/000000/linkedin.png "@danendra10")](https://www.linkedin.com/in/danendra10/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@danendra10](https://img.icons8.com/fluency/48/000000/instagram-new.png "@danendra10")](https://www.instagram.com/d_dnndr/)  [![@danendra10](https://img.icons8.com/fluency/48/000000/linkedin.png "@danendra10")](https://www.linkedin.com/in/danendraclevero/) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@danendraclever24@gmail.com")](danendraclever24@gmail.com)
 
 <br>
 
