@@ -7,13 +7,23 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Senior Web Developer** at [Kontaineran ID](https://kontaineran.id), etc
+- 🏢 I am currently working as a **Robot Software Engineer** at [Widya Robotics](https://widya.ai), etc
 - 🎓 Studies for Electrical Engineering at [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/) since **2020**
 - 🏢 Experienced in Robot Development for **3 Years** at [IRIS ITS Github](https://github.com/IRIS-ITS) [IRIS ITS Web](https://iris.its.ac.id)
 - 🏢 Experienced in Web Development for **3 Years** at [IRIS ITS](https://github.com/IRIS-ITS), [Evolution ITS](https://evolution-ee-its.com/), [Kontaineran ID](https://kontaineran.id), etc
 - 🏡'Lives in **Surabaya, Indonesia**
 
 <br>
+
+## Experiences in Robotics:
+
+| Experience                 | Company           | Year start - Year end |
+| :------------------------- | :---------------- | :-------------------- |
+| Robot Programmer           | IRIS ITS Robotics | 2021 - 2024           |
+| Robot UI Programmer        | Raisa ITS         | 2023 - 2024           |
+| RnD Gazebo                 | PUI-AIHES         | 2023 - 2023           |
+| ROS Engineer               | Widya Robotics    | 2024 - now            |
+| Freelance Robotic Engineer | Kakarobot         | 2024 - now            |
 
 ## Connect with me ☕ :
 
